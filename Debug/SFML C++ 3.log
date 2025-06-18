@@ -1,0 +1,3 @@
+﻿  Game.cpp
+C:\Users\91958\source\repos\SFML C++ 3\Game.cpp(216,16): warning C4018: '<': signed/unsigned mismatch
+  SFML C++ 3.vcxproj -> C:\Users\91958\source\repos\SFML C++ 3\Debug\SFML C++ 3.exe
